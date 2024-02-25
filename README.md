@@ -26,3 +26,8 @@ Lista dos comandos GPRS da linha TK e seus equivalentes em SMS.
 - \**,imei:123456789012345,X; (less gprs123456 off) - Desativar o modo de economia GPRS e Sleep.
 - \**,imei:123456789012345,Y,xxx.xxx.xxx.xxx,9000; (adminip123456 xxx.xxx.xxx.xxx 9000) - Altera IP e Porta de conexão. Não aceita DNS.
 - \**,imei:123456789012345,Z; - <<< AINDA NÃO DESCOBRI >>>.
+
+# Contatos.
+* WhatsApp: +55 (85) 98402-3820.
+* E-mails: cvidalmo@gmail.com, cvidalmo@yahoo.com, cvidalmo@hotmail.com.
+* Skype: cvidalmo.
